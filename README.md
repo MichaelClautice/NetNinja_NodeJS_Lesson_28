@@ -1,6 +1,6 @@
 # NetNinja_NodeJS_Lesson_28
-Michael Clautice, Richmond, VA
-The Net Ninja - NodeJS Tutorial for Beginners
+Michael Clautice, Richmond, VA<br>
+The Net Ninja - NodeJS Tutorial for Beginners<br>
 Lesson 28 - Middleware & Static Files
 
 • https://youtu.be/-lRgL9kj_h0
